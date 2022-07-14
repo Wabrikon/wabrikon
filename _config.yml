@@ -42,7 +42,7 @@ author: Mustafa Solmaz
 #
 copyright: "Unpublished Work (cleft) {currentYear} {author}"
 
-description:I just build my first website with Tech Expert Academy tutorial
+description: I just build my first website with Tech Expert Academy tutorial
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
